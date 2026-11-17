@@ -17,13 +17,11 @@ I’m a second-year Software Engineering student interested in programming, appl
 | Program | Institution | Details |
 | --- | --- | --- |
 | B.Sc. in Software Engineering | [Green University of Bangladesh](https://green.edu.bd/) | In progress · 2nd Year |
-| HSC · Science | Civil Aviation School and College | GPA 4.75/5.00 · 2024 |
-| SSC · Science | Gulshan Model High School and College | GPA 4.78/5.00 · 2022 |
 
 ## Technical Skills
 
 **Programming**  
-<img src="https://img.shields.io/badge/C-20242d?style=flat&logo=c&logoColor=9b8cff" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-20242d?style=flat&logo=cplusplus&logoColor=9b8cff" alt="C++" /> <img src="https://img.shields.io/badge/Java-20242d?style=flat&logo=openjdk&logoColor=9b8cff" alt="Java" />
+<img src="https://img.shields.io/badge/C-20242d?style=flat&logo=c&logoColor=9b8cff" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-20242d?style=flat&logo=cplusplus&logoColor=9b8cff" alt="C++" /> <img src="https://img.shields.io/badge/Java-20242d?style=flat&logo=openjdk&logoColor=9b8cff" alt="Java" /> <img src="https://img.shields.io/badge/Kotlin-20242d?style=flat&logo=kotlin&logoColor=9b8cff" alt="Kotlin" /> <img src="https://img.shields.io/badge/HTML-20242d?style=flat&logo=html5&logoColor=9b8cff" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-20242d?style=flat&logo=css3&logoColor=9b8cff" alt="CSS" />
 
 **Database**  
 <img src="https://img.shields.io/badge/MySQL-20242d?style=flat&logo=mysql&logoColor=9b8cff" alt="MySQL" />
