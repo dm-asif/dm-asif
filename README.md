@@ -71,12 +71,21 @@ A responsive React and TypeScript portfolio with animated interactions, liquid-g
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dm-asif&layout=compact&theme=radical&hide_border=true" height="165" alt="Top languages" />
 </p>
 
-## 📬 Connect
+## 📬 Get in touch
 
-- 🌐 **Portfolio:** [dm-asif.github.io](https://dm-asif.github.io/)
-- 💼 **LinkedIn:** [linkedin.com/in/dmasif143](https://www.linkedin.com/in/dmasif143/)
-- 📧 **Email:** [dmasif.me@gmail.com](mailto:dmasif.me@gmail.com)
-- 🐙 **GitHub:** [github.com/dm-asif](https://github.com/dm-asif)
+<p align="center">
+  <a href="https://dm-asif.github.io/"><img src="https://skillicons.dev/icons?i=htmx" width="48" alt="Portfolio" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:dmasif.me@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/dm-asif"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dmasif143/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/dmasif.me/"><img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="48" height="48" alt="Facebook" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/d_m_asif/"><img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram" /></a>
+</p>
 
 <div align="center">
 
