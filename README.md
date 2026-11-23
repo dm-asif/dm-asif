@@ -17,7 +17,7 @@ I am a **Software Engineering student at Green University of Bangladesh**, drive
 I am developing my foundation in programming, object-oriented thinking, databases, and software design, with a particular interest in **Android development**. I value clear thinking, consistent learning, careful implementation, and turning every project into an opportunity to ask better questions and become a more reliable engineer.
 
 - 📍 Based in **Dhaka, Bangladesh**
-- 🎓 Currently studying **B.Sc. in Software Engineering**
+- 🎓 Studying **Software Engineering**
 - 📚 Current academic level: **2nd Year**
 - 🌱 Focused on Android development, software architecture, databases, and modern web technologies
 - 🤝 Open to meaningful projects, collaboration, and learning opportunities
@@ -30,21 +30,13 @@ Explore my complete profile, skills, education, activities, projects, and contac
 
 ## 🎓 Education
 
-| Period | Institution | Qualification | Result |
-|:---|:---|:---|:---|
-| 2024 — Present | Green University of Bangladesh | B.Sc. in Software Engineering | **CGPA 3.71 / 4.00** |
-| 2024 | Civil Aviation School and College | Higher Secondary Certificate (HSC) | **GPA 4.75 / 5.00** |
-| 2022 | Gulshan Model High School and College | Secondary School Certificate (SSC) | **GPA 4.78 / 5.00** |
-
-### Academic Achievements
-
-- 🥈 **2nd Position** — 2nd Semester
-- 🥉 **3rd Position** — 3rd Semester
+**Green University of Bangladesh**  
+**Department of Software Engineering**
 
 ## 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,react,ts,js,html,css,tailwind,vite,git,github,figma&perline=7" alt="Technical skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,androidstudio,react,ts,js,html,css,tailwind,vite,git,github,figma&perline=7" alt="Technical skills" />
 </p>
 
 ## 🚀 Featured Projects
