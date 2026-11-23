@@ -2,9 +2,9 @@
 
 # MD. Asif Hossain
 
-**Software Engineering Student | Mobile App Developer | UI Enthusiast**
+**Software Engineering Student · Android Developer · Problem Solver**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dm--asif.github.io-9d3a52?style=for-the-badge)](https://dm-asif.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-dm--asif.github.io-9d3a52?style=for-the-badge)](https://dm-asif.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-dm--asif-181717?style=for-the-badge&logo=github)](https://github.com/dm-asif)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dmasif143/)
 
@@ -12,15 +12,36 @@
 
 ## 👋 About Me
 
-I am a Software Engineering student at **Green University of Bangladesh**, focused on building clear, practical, and useful software. I enjoy developing Android applications, exploring modern web technologies, and turning thoughtful ideas into polished products.
+I am a **Software Engineering student at Green University of Bangladesh**, driven by curiosity about how instructions become products that people use every day.
+
+I am developing my foundation in programming, object-oriented thinking, databases, and software design, with a particular interest in **Android development**. I value clear thinking, consistent learning, careful implementation, and turning every project into an opportunity to ask better questions and become a more reliable engineer.
+
+- 📍 Based in **Dhaka, Bangladesh**
+- 🎓 Currently studying **B.Sc. in Software Engineering**
+- 📚 Current academic level: **2nd Year**
+- 🌱 Focused on Android development, software architecture, databases, and modern web technologies
+- 🤝 Open to meaningful projects, collaboration, and learning opportunities
 
 ## 🌐 Portfolio
 
-Explore my projects, skills, education, activities, and contact information:
+Explore my complete profile, skills, education, activities, projects, and contact information:
 
 ### [**Visit My Portfolio → dm-asif.github.io**](https://dm-asif.github.io/)
 
-## 🛠️ Technologies
+## 🎓 Education
+
+| Period | Institution | Qualification | Result |
+|:---|:---|:---|:---|
+| 2024 — Present | Green University of Bangladesh | B.Sc. in Software Engineering | **CGPA 3.71 / 4.00** |
+| 2024 | Civil Aviation School and College | Higher Secondary Certificate (HSC) | **GPA 4.75 / 5.00** |
+| 2022 | Gulshan Model High School and College | Secondary School Certificate (SSC) | **GPA 4.78 / 5.00** |
+
+### Academic Achievements
+
+- 🥈 **2nd Position** — 2nd Semester
+- 🥉 **3rd Position** — 3rd Semester
+
+## 🛠️ Technologies & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,react,ts,js,html,css,tailwind,vite,git,github,figma&perline=7" alt="Technical skills" />
@@ -32,10 +53,16 @@ Explore my projects, skills, education, activities, and contact information:
 A bilingual Android application for menstrual-cycle tracking, health logs, medicine reminders, and period-supply management.
 
 ### [Student OS](https://github.com/dm-asif/Student-OS)
-An Android academic planner for university students, with course schedules, academic tasks, reminders, and optional Gemini study assistance.
+An Android academic planner for university students with course schedules, academic tasks, local reminders, and optional Gemini study assistance.
 
 ### [Personal Portfolio](https://github.com/dm-asif/dm-asif.github.io)
-A responsive React and TypeScript portfolio with animated interactions and GitHub Pages deployment.
+A responsive React and TypeScript portfolio with animated interactions, liquid-glass styling, and GitHub Pages deployment.
+
+## 🤝 Activities & Community
+
+- **GUB Competitive Programming Community** — Executive Member
+- **Leo Club of Green University** — General Member
+- **Amar Somoy Amar Desh (ASAD)** — Official Volunteer
 
 ## 📊 GitHub Activity
 
@@ -44,7 +71,7 @@ A responsive React and TypeScript portfolio with animated interactions and GitHu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dm-asif&layout=compact&theme=radical&hide_border=true" height="165" alt="Top languages" />
 </p>
 
-## 🤝 Connect
+## 📬 Connect
 
 - 🌐 **Portfolio:** [dm-asif.github.io](https://dm-asif.github.io/)
 - 💼 **LinkedIn:** [linkedin.com/in/dmasif143](https://www.linkedin.com/in/dmasif143/)
