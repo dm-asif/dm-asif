@@ -56,6 +56,14 @@ A responsive React and TypeScript portfolio with animated interactions, liquid-g
 - **Leo Club of Green University** — General Member
 - **Amar Somoy Amar Desh (ASAD)** — Official Volunteer
 
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://dm-asif.github.io/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://dm-asif.github.io/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://dm-asif.github.io/github-contribution-grid-snake.svg" />
+</picture>
+
 ## 📊 GitHub Activity
 
 <p align="center">
