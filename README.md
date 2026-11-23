@@ -80,7 +80,7 @@ A responsive React and TypeScript portfolio with animated interactions, liquid-g
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/dm-asif"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="46" height="46" alt="GitHub" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dmasif143/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="46" height="46" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/dmasif143/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="46" height="46" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/dmasif.me/"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="46" height="46" alt="Facebook" /></a>
   &nbsp;&nbsp;&nbsp;
