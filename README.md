@@ -74,17 +74,17 @@ A responsive React and TypeScript portfolio with animated interactions, liquid-g
 ## 📬 Get in touch
 
 <p align="center">
-  <a href="https://dm-asif.github.io/"><img src="https://skillicons.dev/icons?i=htmx" width="48" alt="Portfolio" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:dmasif.me@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/dm-asif"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dmasif143/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/dmasif.me/"><img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="48" height="48" alt="Facebook" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/d_m_asif/"><img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram" /></a>
+  <a href="https://dm-asif.github.io/"><img src="https://dm-asif.github.io/favicon.svg" width="46" height="46" alt="Portfolio" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:dmasif.me@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="46" height="46" alt="Email" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/dm-asif"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="46" height="46" alt="GitHub" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dmasif143/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="46" height="46" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/dmasif.me/"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="46" height="46" alt="Facebook" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/d_m_asif/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="46" height="46" alt="Instagram" /></a>
 </p>
 
 <div align="center">
